@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raphgm
+- 👋 Hi, I’m @Raphael Gab-Momoh
 - 👀 I’m a Junkie for  CI/CD and Open Source
 - 🌱 I’m currently re-learning everything "openly" as part of my MVP requirement so that everyone can benefit 
 - 💞️ I’m looking to collaborate on anything interesting that relates to opensource & DevOps
