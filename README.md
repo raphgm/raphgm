@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raphael Gab-Momoh
+- 👋 Hi, I’m @Raphael 
 - 👀 I’m a Junkie for  CI/CD and Open Source
 - 🌱 I’m currently re-learning everything "openly" 
 - 💞️ I’m looking to collaborate on anything interesting that relates to opensource & DevOps
