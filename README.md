@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raphael 
 - 👀 I’m a Junkie for Cloud, CI/CD and Open Source
-- ✨ I'm a Technical Trainer for Azure Cloud Developer, Azure Admin, Azure Iot & Azure DevOPs
+- ✨ I'm a Technical Trainer for Azure Cloud Developer & Azure DevOPs
 - 🌱 I’m currently re-learning everything "openly" 
 - 💞️ I’m looking to collaborate on anything interesting that relates to opensource & DevOps
 - 📫 How to reach me raphael@rdgmh.onmicrosoft.com
