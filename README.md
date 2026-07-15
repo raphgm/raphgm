@@ -24,7 +24,7 @@ I enjoy solving infrastructure challenges, automating everything possible, contr
 
 ---
 
-# 🌍 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -48,7 +48,7 @@ I enjoy solving infrastructure challenges, automating everything possible, contr
 
 ---
 
-# ☁️ Cloud & DevOps Stack
+# Cloud & DevOps Stack
 
 <p align="center">
 
@@ -58,13 +58,13 @@ I enjoy solving infrastructure challenges, automating everything possible, contr
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🎓 SKILL.SCH
+##  SKILL.SCH
 
 An AI-powered workforce development platform helping engineers gain practical cloud, DevOps, AI, cybersecurity, and platform engineering skills through immersive learning experiences.
 
-🌐 **https://skill-sch.com**
+**https://skill-sch.com**
 
 ---
 
@@ -72,11 +72,11 @@ An AI-powered workforce development platform helping engineers gain practical cl
 
 A project-based learning platform where engineers build production-ready cloud and DevOps solutions using real enterprise scenarios.
 
-🌐 **https://realcloudprojects.io**
+ **https://realcloudprojects.io**
 
 
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <div align="center">
 
@@ -86,7 +86,7 @@ A project-based learning platform where engineers build production-ready cloud a
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <div align="center">
 
@@ -96,7 +96,7 @@ A project-based learning platform where engineers build production-ready cloud a
 
 ---
 
-# 🏅 Certifications & Leadership
+# 🏅 Leadership
 
 | Certification | Status |
 |---------------|--------|
@@ -108,7 +108,7 @@ A project-based learning platform where engineers build production-ready cloud a
 
 ---
 
-# 💼 Areas of Expertise
+# Areas of Expertise
 
 - Microsoft Azure
 - Amazon Web Services (AWS)
@@ -130,7 +130,7 @@ A project-based learning platform where engineers build production-ready cloud a
 
 ---
 
-# 📈 Current Focus
+#  Current Focus
 
 ```text
 ☁️ Cloud Architecture        ████████████████████ 100%
@@ -143,7 +143,7 @@ A project-based learning platform where engineers build production-ready cloud a
 
 ---
 
-# 💡 Philosophy
+#  Philosophy
 
 > Great technology isn't measured by complexity—it's measured by the problems it solves and the people it empowers.
 
