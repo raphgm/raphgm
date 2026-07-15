@@ -1,59 +1,49 @@
-<h1 align="center">Hi 👋, I'm Raphael Gab-Momoh</h1>
+<div align="center">
 
-<h3 align="center">
-Cloud & DevOps Engineer • Microsoft Azure MVP • FinOps Certified Practitioner
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Raphael%20Gab-Momoh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Microsoft%20Azure%20MVP&descAlignY=58"/>
 
-<p align="center">
-Building cloud platforms, developer tools, and AI-powered learning experiences.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Microsoft+Azure+Most+Valuable+Professional;FinOps+Certified+Professional;Founder+of+SKILL.SCH;Creator+of+RealCloudProjects;Platform+Engineering+%7C+AI+Infrastructure+%7C+Cloud+Security" />
 
-<p align="center">
-<a href="https://skill-sch.com">
-<img src="https://img.shields.io/badge/SKILL.SCH-Visit-2563eb?style=for-the-badge" />
-</a>
-
-<a href="https://realcloudprojects.io">
-<img src="https://img.shields.io/badge/RealCloudProjects-Live-success?style=for-the-badge" />
-</a>
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-- ☁️ Cloud & DevOps Engineer
-- 🏆 Microsoft Azure MVP
-- 💰 FinOps Certified Practitioner
+I'm a **Cloud & DevOps Engineer**, **Microsoft Azure Most Valuable Professional (MVP)**, and **FinOps Certified Professional** passionate about building cloud platforms, developer tools, and AI-powered learning experiences.
+
+I enjoy solving infrastructure challenges, automating everything possible, contributing to technical communities, and helping engineers build real-world cloud skills.
+
+### Current Roles
+
+- 🏆 Microsoft Azure Most Valuable Professional (MVP)
+- 💰 FinOps Certified Professional
 - 🌍 MGCI Regional Leader
 - 🚀 Founder of **SKILL.SCH**
-- 💻 Creator of **RealCloudProjects**
-- 🌱 Currently exploring Platform Engineering, AI Infrastructure & Cloud Security
-- 🤝 Passionate about Open Source
-- 💬 Ask me about Azure, AWS, Kubernetes, Terraform, Docker, Linux & DevOps
-
-📧 **raphael@rdgmh.onmicrosoft.com**
+- ☁️ Creator of **RealCloudProjects**
 
 ---
 
 # 🌍 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOURUSERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+<p align="center">
 
 <a href="https://github.com/raphgm">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://twitter.com/YOURUSERNAME">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://youtube.com/@YOURCHANNEL">
-<img src="https://skillicons.dev/icons?i=youtube" height="45"/>
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
+
 </p>
 
 ---
@@ -62,7 +52,7 @@ Building cloud platforms, developer tools, and AI-powered learning experiences.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,githubactions,powershell,python,nodejs,vscode&perline=7"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,github,githubactions,powershell,python,nodejs,vscode,ansible,prometheus,grafana,nginx,redis,mongodb,postgres,mysql,ubuntu,debian"/>
 
 </p>
 
@@ -72,127 +62,115 @@ Building cloud platforms, developer tools, and AI-powered learning experiences.
 
 ## 🎓 SKILL.SCH
 
-AI-powered workforce development platform focused on practical cloud engineering, DevOps, cybersecurity, AI, and platform engineering through hands-on labs and real-world projects.
+An AI-powered workforce development platform helping engineers gain practical cloud, DevOps, AI, cybersecurity, and platform engineering skills through immersive learning experiences.
 
-🔗 https://skill-sch.com
+🌐 **https://skill-sch.com**
 
 ---
 
 ## ☁️ RealCloudProjects
 
-Production-ready cloud projects designed to help engineers build practical experience through real enterprise scenarios.
+A project-based learning platform where engineers build production-ready cloud and DevOps solutions using real enterprise scenarios.
 
-🔗 https://realcloudprojects.io
+🌐 **https://realcloudprojects.io**
 
----
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raphgm&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphgm&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=raphgm&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphgm&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 Certifications & Leadership
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raphgm&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=raphgm&style=for-the-badge&color=blue"/>
-
-</p>
+| Certification | Status |
+|---------------|--------|
+| 🏆 Microsoft Azure Most Valuable Professional | ✅ |
+| 💰 FinOps Certified Professional | ✅ |
+| 🌍 MGCI Regional Leader | ✅ |
+| ☁️ Cloud & DevOps Engineer | ✅ |
+| 🤝 Open Source Contributor | ✅ |
 
 ---
 
-# 🏅 Certifications
+# 💼 Areas of Expertise
 
-- 🏆 Microsoft Azure Most Valuable Professional (MVP)
-- 💰 FinOps Certified Practitioner
-- ☁️ Cloud & DevOps Engineer
-- 🌍 MGCI Regional Leader
-- 🤝 Open Source Contributor
-
----
-
-# 💡 Areas of Expertise
-
-```text
-☁️ Cloud Architecture
-⚙️ DevOps
-🚀 Kubernetes
-🐳 Docker
-📦 Terraform
-🔄 CI/CD
-🔐 Cloud Security
-💰 FinOps
-🤖 AI Infrastructure
-📈 Platform Engineering
-```
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+- Kubernetes
+- Docker
+- Terraform
+- Infrastructure as Code
+- DevOps
+- GitHub Actions
+- CI/CD
+- Linux
+- Platform Engineering
+- Cloud Security
+- FinOps
+- Python
+- PowerShell
+- Node.js
 
 ---
 
 # 📈 Current Focus
 
 ```text
-☁️ Cloud Architecture       ████████████████████ 100%
-
-⚙️ DevOps Automation        ███████████████████░ 95%
-
-🐳 Kubernetes               ██████████████████░░ 90%
-
-💰 FinOps                   ███████████████████░ 95%
-
-🤖 AI Infrastructure        ████████████████░░░░ 80%
-
-🔒 Cloud Security           █████████████████░░░ 85%
+☁️ Cloud Architecture        ████████████████████ 100%
+⚙️ DevOps & Automation       ███████████████████░ 95%
+🐳 Kubernetes                ██████████████████░░ 90%
+💰 FinOps                    ███████████████████░ 95%
+🤖 AI Infrastructure         ████████████████░░░░ 80%
+🔒 Cloud Security            █████████████████░░░ 85%
 ```
 
 ---
 
-# ✨ Quote
+# 💡 Philosophy
 
-> *"Great technology isn't measured by complexity—it's measured by the problems it solves and the people it empowers."*
+> Great technology isn't measured by complexity—it's measured by the problems it solves and the people it empowers.
 
 ---
 
-<p align="center">
+# 👀 Visitors
 
-### Thanks for stopping by! 👋
+<div align="center">
 
-⭐ If you like my work, consider starring a repository and following my journey.
+<img src="https://komarev.com/ghpvc/?username=raphgm&style=for-the-badge&color=0e75b6"/>
 
-</p>
+</div>
+
+---
+
+# ❤️ Open Source
+
+I enjoy contributing to projects that improve the cloud ecosystem, simplify developer workflows, and make technology more accessible through education.
+
+If you find any of my work useful, consider ⭐ starring a repository or following my journey.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=120&section=footer"/>
