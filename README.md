@@ -1,57 +1,59 @@
-````markdown
-<!-- ========================================================= -->
-<!-- Animated Header -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Raphael+Gab-Momoh;Cloud+%26+DevOps+Engineer;Microsoft+Azure+MVP;FinOps+Certified+Practitioner;MGCI+Regional+Leader;Building+Cloud+Platforms+That+Scale" />
-</p>
+<h1 align="center">Hi 👋, I'm Raphael Gab-Momoh</h1>
 
 <h3 align="center">
-Cloud & DevOps Engineer • Microsoft Azure MVP • FinOps Certified Practitioner • MGCI Regional Leader
+Cloud & DevOps Engineer • Microsoft Azure MVP • FinOps Certified Practitioner
 </h3>
 
 <p align="center">
-I build secure, scalable cloud platforms, automate infrastructure, and create hands-on learning experiences that help people develop real-world technical skills.
+Building cloud platforms, developer tools, and AI-powered learning experiences.
+</p>
+
+<p align="center">
+<a href="https://skill-sch.com">
+<img src="https://img.shields.io/badge/SKILL.SCH-Visit-2563eb?style=for-the-badge" />
+</a>
+
+<a href="https://realcloudprojects.io">
+<img src="https://img.shields.io/badge/RealCloudProjects-Live-success?style=for-the-badge" />
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- ☁️ Cloud & DevOps Engineer passionate about building reliable cloud platforms.
-- 🏆 Microsoft Azure MVP.
-- 💰 FinOps Certified Practitioner.
-- 🌍 MGCI Regional Leader.
-- 🚀 Founder of **SKILL.SCH**.
-- 💻 Creator of **RealCloudProjects**.
-- 🌱 Currently exploring Platform Engineering, AI Infrastructure, and Cloud Security.
-- 🤝 Open to collaborating on cloud-native, DevOps, and open-source projects.
-- 💬 Ask me about Azure, AWS, Google Cloud, Kubernetes, Terraform, Docker, Linux, GitHub Actions, DevOps, and FinOps.
-- 📫 **raphael@rdgmh.onmicrosoft.com**
+- ☁️ Cloud & DevOps Engineer
+- 🏆 Microsoft Azure MVP
+- 💰 FinOps Certified Practitioner
+- 🌍 MGCI Regional Leader
+- 🚀 Founder of **SKILL.SCH**
+- 💻 Creator of **RealCloudProjects**
+- 🌱 Currently exploring Platform Engineering, AI Infrastructure & Cloud Security
+- 🤝 Passionate about Open Source
+- 💬 Ask me about Azure, AWS, Kubernetes, Terraform, Docker, Linux & DevOps
+
+📧 **raphael@rdgmh.onmicrosoft.com**
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rgmh/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+<p align="left">
+<a href="https://linkedin.com/in/YOURUSERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://github.com/raphgm" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="48" />
+<a href="https://github.com/raphgm">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://twitter.com/rdgmh" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="48" />
+<a href="https://twitter.com/YOURUSERNAME">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 </a>
 
+<a href="https://youtube.com/@YOURCHANNEL">
+<img src="https://skillicons.dev/icons?i=youtube" height="45"/>
+</a>
 </p>
 
 ---
@@ -60,7 +62,7 @@ I build secure, scalable cloud platforms, automate infrastructure, and create ha
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform,linux,bash,powershell,python,go,nodejs,react,git,github,githubactions,vscode" />
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,githubactions,powershell,python,nodejs,vscode&perline=7"/>
 
 </p>
 
@@ -70,17 +72,17 @@ I build secure, scalable cloud platforms, automate infrastructure, and create ha
 
 ## 🎓 SKILL.SCH
 
-An AI-powered workforce development platform that helps individuals and organizations build practical technology skills through interactive courses, cloud labs, real-world projects, and AI-assisted learning.
+AI-powered workforce development platform focused on practical cloud engineering, DevOps, cybersecurity, AI, and platform engineering through hands-on labs and real-world projects.
 
-🌐 **https://skill-sch.com**
+🔗 https://skill-sch.com
 
 ---
 
 ## ☁️ RealCloudProjects
 
-A project-based learning platform where learners build production-ready cloud, DevOps, cybersecurity, AI, and platform engineering solutions while gaining real-world experience.
+Production-ready cloud projects designed to help engineers build practical experience through real enterprise scenarios.
 
-🌐 **https://realcloudprojects.io**
+🔗 https://realcloudprojects.io
 
 ---
 
@@ -88,9 +90,9 @@ A project-based learning platform where learners build production-ready cloud, D
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raphgm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raphgm&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphgm&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphgm&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -100,7 +102,7 @@ A project-based learning platform where learners build production-ready cloud, D
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=raphgm&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=raphgm&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -110,7 +112,7 @@ A project-based learning platform where learners build production-ready cloud, D
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raphgm&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raphgm&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -120,7 +122,7 @@ A project-based learning platform where learners build production-ready cloud, D
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raphgm&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=raphgm&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
 
@@ -130,53 +132,53 @@ A project-based learning platform where learners build production-ready cloud, D
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=raphgm&label=Profile+Views&color=0078D4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=raphgm&style=for-the-badge&color=blue"/>
 
 </p>
 
 ---
 
-# 🎖️ Certifications & Leadership
+# 🏅 Certifications
 
 - 🏆 Microsoft Azure Most Valuable Professional (MVP)
 - 💰 FinOps Certified Practitioner
-- 🌍 MGCI Regional Leader
 - ☁️ Cloud & DevOps Engineer
-- 🤝 Open Source & Community Contributor
+- 🌍 MGCI Regional Leader
+- 🤝 Open Source Contributor
 
 ---
 
 # 💡 Areas of Expertise
 
-- Microsoft Azure
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
-- Kubernetes
-- Docker
-- Terraform
-- Infrastructure as Code (IaC)
-- DevOps
-- GitHub Actions
-- CI/CD
-- Linux
-- Platform Engineering
-- Cloud Security
-- FinOps
-- Python
-- PowerShell
-- Node.js
+```text
+☁️ Cloud Architecture
+⚙️ DevOps
+🚀 Kubernetes
+🐳 Docker
+📦 Terraform
+🔄 CI/CD
+🔐 Cloud Security
+💰 FinOps
+🤖 AI Infrastructure
+📈 Platform Engineering
+```
 
 ---
 
 # 📈 Current Focus
 
 ```text
-☁️ Cloud Architecture         ████████████████████ 100%
-⚙️ DevOps & Automation        ███████████████████░ 95%
-🐳 Kubernetes                 ██████████████████░░ 90%
-💰 FinOps                     ███████████████████░ 95%
-🤖 AI Infrastructure          ████████████████░░░░ 80%
-🔒 Cloud Security             █████████████████░░░ 85%
+☁️ Cloud Architecture       ████████████████████ 100%
+
+⚙️ DevOps Automation        ███████████████████░ 95%
+
+🐳 Kubernetes               ██████████████████░░ 90%
+
+💰 FinOps                   ███████████████████░ 95%
+
+🤖 AI Infrastructure        ████████████████░░░░ 80%
+
+🔒 Cloud Security           █████████████████░░░ 85%
 ```
 
 ---
@@ -191,9 +193,6 @@ A project-based learning platform where learners build production-ready cloud, D
 
 ### Thanks for stopping by! 👋
 
-If you enjoy my work, feel free to ⭐ star a repository, follow my journey, or connect with me on LinkedIn.
+⭐ If you like my work, consider starring a repository and following my journey.
 
 </p>
-````
-
-One note: your GitHub stats section now uses the correct username (`raphgm`), so if the cards still don't appear after pasting this, the issue is likely GitHub's cache or the external stats service rather than your README itself.
