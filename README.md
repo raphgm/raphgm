@@ -149,7 +149,7 @@ A project-based learning platform where engineers build production-ready cloud a
 
 ---
 
-# 👀 Visitors
+# Visitors
 
 <div align="center">
 
