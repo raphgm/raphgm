@@ -32,11 +32,11 @@ I enjoy solving infrastructure challenges, automating everything possible, contr
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/rgmh">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://x.com/YOUR_USERNAME">
+<a href="https://x.com/@rdgmh">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
