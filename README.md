@@ -68,7 +68,7 @@ An AI-powered workforce development platform helping engineers gain practical cl
 
 ---
 
-## ☁️ RealCloudProjects
+##  RealCloudProjects
 
 A project-based learning platform where engineers build production-ready cloud and DevOps solutions using real enterprise scenarios.
 
