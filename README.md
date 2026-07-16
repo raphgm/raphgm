@@ -96,7 +96,7 @@ A project-based learning platform where engineers build production-ready cloud a
 
 ---
 
-# 🏅 Leadership
+# 🏅 Leadership & Recognition
 
 | Certification | Status |
 |---------------|--------|
