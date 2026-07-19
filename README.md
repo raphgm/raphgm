@@ -165,7 +165,7 @@ I enjoy contributing to projects that improve the cloud ecosystem, simplify deve
 
 ### Projects
 - [**container-doctor**](https://github.com/raphgm/container-doctor): A fast, extensible CLI tool designed to diagnose system readiness for running Docker and container workloads.
-- **pinpoinpro**: An open-source project I actively contribute to.
+- [**pinpointpro**](https://github.com/raphgm/pinpointpro): An open-source project I actively contribute to.
 
 If you find any of my work useful, consider ⭐ starring a repository or following my journey.
 
