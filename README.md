@@ -164,6 +164,7 @@ A project-based learning platform where engineers build production-ready cloud a
 I enjoy contributing to projects that improve the cloud ecosystem, simplify developer workflows, and make technology more accessible through education.
 
 ### Projects
+- [**openreserve**](https://github.com/raphgm/openreserve): A next-generation, high-performance Layer 1 blockchain protocol and Internet Financial System written entirely in Go.
 - [**container-doctor**](https://github.com/raphgm/container-doctor): A fast, extensible CLI tool designed to diagnose system readiness for running Docker and container workloads.
 - [**pinpointpro**](https://github.com/raphgm/pinpointpro): An open-source project I actively contribute to.
 
