@@ -108,25 +108,14 @@ A project-based learning platform where engineers build production-ready cloud a
 
 ---
 
-# Areas of Expertise
 
-- Microsoft Azure
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
-- Kubernetes
-- Docker
-- Terraform
-- Infrastructure as Code
-- DevOps
-- GitHub Actions
-- CI/CD
-- Linux
-- Platform Engineering
-- Cloud Security
-- FinOps
-- Python
-- PowerShell
-- Node.js
+# Core Competencies & Technical Expertise
+
+- **Cloud & Platform Engineering**: AWS, GCP, Azure, Multi-Cloud Architecture, Hybrid Infrastructure, Zero-Trust & Cloud Security.
+- **DevOps & Infrastructure as Code**: Terraform, Kubernetes, Docker, GitHub Actions, CI/CD Pipelines, Linux, Platform Engineering.
+- **Financial Operations (FinOps)**: Cost Optimization, Unit Economics, Spend Anomaly Detection, Resource Tagging & Budget Governance.
+- **AI & Intelligent Automation**: Enterprise AI Integration, LLM Orchestration, Generative AI Architecture, MLOps, Process Automation.
+- **Languages & Scripting**: Python, Node.js, PowerShell, Bash.
 
 ---
 
