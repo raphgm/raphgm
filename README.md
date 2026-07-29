@@ -16,6 +16,7 @@ I enjoy solving infrastructure challenges, automating everything possible, contr
 
 ### Current Roles
 
+- 📚 Published Author — *Ultimate Certified FinOps Practitioner Exam Guide*
 - 🏆 Microsoft Azure Most Valuable Professional (MVP)
 - 💰 FinOps Certified Professional
 - 🌍 MGCI Regional Leader
