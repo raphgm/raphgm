@@ -29,7 +29,26 @@ I enjoy solving infrastructure challenges, automating everything possible, contr
 -  **Platform Engineering**: Designed zero-trust CI/CD pipelines and infrastructure modules, accelerating deployment velocity from hours to **<15 minutes**.
 -  **Talent & Community Scale**: Founded **SKILL.SCH** and **RealCloudProjects**, empowering **1,000+** engineers with production-grade Cloud, DevOps, and AI skills.
 ---
+# Published Books & Publications
 
+<table border="0">
+  <tr>
+    <td width="200" align="center" valign="middle">
+      <a href="https://www.amazon.com/Ultimate-Certified-FinOps-Practitioner-Hands/dp/9349888971" target="_blank">
+        <img src="https://img.shields.io/badge/Amazon-Available_Now-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Book Link" />
+      </a>
+    </td>
+    <td valign="top">
+      <h3>📖 <a href="https://www.amazon.com/Ultimate-Certified-FinOps-Practitioner-Hands/dp/9349888971">Ultimate Certified FinOps Practitioner Exam Guide</a></h3>
+      <p><b>Master Cloud Financial Operations with Real-World Strategies, Hands-On Tools, and Complete Preparation for the Certified FinOps Practitioner Exam</b></p>
+      <ul>
+        <li><b>Topics Covered</b>: FinOps Lifecycle (Inform, Optimize, Operate), Multi-Cloud Cost Optimization (AWS, Azure, GCP), Automation with Terraform, Ansible & Python, unit economics, and cloud financial governance.</li>
+        <li><b>Target Audience</b>: Cloud Architects, DevOps Engineers, FinOps Practitioners, and Finance Leads.</li>
+      </ul>
+      <p><a href="https://www.amazon.com/Ultimate-Certified-FinOps-Practitioner-Hands/dp/9349888971">👉 <b>View on Amazon</b></a></p>
+    </td>
+  </tr>
+</table>
 
 
 #  Connect With Me
