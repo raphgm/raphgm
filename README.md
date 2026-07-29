@@ -23,6 +23,14 @@ I enjoy solving infrastructure challenges, automating everything possible, contr
 - ☁️ Creator of **RealCloudProjects**
 
 ---
+<!-- 📍 PLACE IT RIGHT HERE 📍 -->
+#  Career Impact Highlights
+- **FinOps & Cost Optimization**: Reduced cloud infrastructure spend by **30%+** through unit economics modeling, right-sizing, and automated resource governance.
+-  **Platform Engineering**: Designed zero-trust CI/CD pipelines and infrastructure modules, accelerating deployment velocity from hours to **<15 minutes**.
+-  **Talent & Community Scale**: Founded **SKILL.SCH** and **RealCloudProjects**, empowering **1,000+** engineers with production-grade Cloud, DevOps, and AI skills.
+---
+
+
 
 #  Connect With Me
 
