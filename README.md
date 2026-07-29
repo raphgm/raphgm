@@ -68,21 +68,45 @@ I enjoy solving infrastructure challenges, automating everything possible, contr
 
 #  Featured Projects
 
-##  SKILL.SCH
-
-An AI-powered workforce development platform helping engineers gain practical cloud, DevOps, AI, cybersecurity, and platform engineering skills through immersive learning experiences.
-
-**https://skill-sch.com**
+###  [GabraOs](https://github.com/raphgm/GabraOs)
+> **The Open Standard for Autonomous Engineering**
+An operating system that continuously observes, tests, learns, secures, and optimizes software through autonomous AI agents.
+- **Tech Stack**: `AI Agents`, `Python`, `LLM Orchestration`, `Autonomous Workflows`
 
 ---
 
-##  RealCloudProjects
+### [openreserve](https://github.com/raphgm/openreserve)
+> **Layer 1 Blockchain Protocol & Financial System**
+A next-generation, high-performance Layer 1 blockchain protocol and Internet Financial System built for high-throughput transactions.
+- **Tech Stack**: `Go (Golang)`, `Consensus Protocols`, `Distributed Systems`, `Crypto & Ledger`
 
+---
+
+###  [container-doctor](https://github.com/raphgm/container-doctor)
+> **Container Diagnostics & System Readiness CLI**
+A fast, extensible CLI tool designed to diagnose system readiness, prerequisites, and configuration for running Docker and container workloads.
+- **Tech Stack**: `Go / CLI`, `Docker`, `Kubernetes`, `System Diagnostics`
+
+---
+
+### [pinpointpro](https://github.com/raphgm/pinpointpro)
+> **Open-Source Developer & Infrastructure Tooling**
+Active core contributor to modern developer tools and open-source cloud management utilities.
+- **Tech Stack**: `Open Source`, `TypeScript`, `Cloud Integration`
+
+---
+
+###  [SKILL.SCH](https://skill-sch.com)
+> **AI-Powered Workforce Development Platform**
+An AI-powered platform helping engineers master practical Cloud, DevOps, AI, and Platform Engineering skills through real-world simulations.
+- **Tech Stack**: `Azure`, `TypeScript`, `Generative AI`, `Terraform`
+
+---
+
+###  [RealCloudProjects](https://realcloudprojects.io)
+> **Production Cloud & DevOps Project Engine**
 A project-based learning platform where engineers build production-ready cloud and DevOps solutions using real enterprise scenarios.
-
- **https://realcloudprojects.io**
-
-
+- **Tech Stack**: `AWS`, `GCP`, `Docker`, `GitHub Actions`, `FinOps`
 
 #  GitHub Streak
 
