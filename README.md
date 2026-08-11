@@ -88,6 +88,13 @@ I enjoy solving infrastructure challenges, automating everything possible, contr
 
 #  Featured Projects
 
+### [Sauti](https://github.com/raphgm/sauti)
+> **Africa's Short-Video Creator Economy**
+Made in Africa, paid in Africa. A short-video app built for 3G networks and mobile-money payouts, helping African creators monetize without western bank accounts.
+- **Tech Stack**: `NestJS`, `Cloudflare Pages`, `Serverless KV`, `HTML/CSS`
+
+---
+
 ###  [GabraOs](https://github.com/raphgm/GabraOs)
 > **The Open Standard for Autonomous Engineering**
 An operating system that continuously observes, tests, learns, secures, and optimizes software through autonomous AI agents.
