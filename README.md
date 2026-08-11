@@ -21,7 +21,7 @@ I enjoy solving infrastructure challenges, automating everything possible, contr
 -  FinOps Certified Professional
 -  MGCI Regional Leader
 -  Founder of **SKILL.SCH**
-- Creator of **RealCloudProjects.io**
+- Creator of **Realcloudprojects.io**
 
 ---
 <!-- 📍 PLACE IT RIGHT HERE 📍 -->
