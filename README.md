@@ -126,7 +126,7 @@ Active core contributor to modern developer tools and open-source cloud manageme
 ###  [SKILL.SCH](https://skill-sch.com)
 > **AI-Powered Workforce Development Platform**
 An AI-powered platform helping engineers master practical Cloud, DevOps, AI, and Platform Engineering skills through real-world simulations.
-- **Tech Stack**: `Azure`, `TypeScript`, `Generative AI`, `Terraform`
+- **Tech Stack**: `Azure`, `TypeScript`, `Generative AI`, `Terraform`,`AWS`,`Firebase`
 
 ---
 
