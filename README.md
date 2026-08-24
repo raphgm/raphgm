@@ -139,7 +139,7 @@ A project-based learning platform where engineers build production-ready cloud a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=raphgm&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raphgm&theme=tokyonight&hide_border=true"/>
 
 </div>
 
