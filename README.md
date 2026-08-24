@@ -135,11 +135,14 @@ An AI-powered platform helping engineers master practical Cloud, DevOps, AI, and
 A project-based learning platform where engineers build production-ready cloud and DevOps solutions using real enterprise scenarios.
 - **Tech Stack**: `AWS`, `GCP`, `Docker`, `GitHub Actions`, `FinOps`
 
-#  GitHub Streak
+#  GitHub Activity & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raphgm&theme=tokyonight&hide_border=true"/>
+<p>
+  <img src="https://img.shields.io/github/followers/raphgm?label=GitHub%20Followers&style=for-the-badge&color=0078D4&logo=github"/>
+  <img src="https://img.shields.io/badge/Status-Active%20Contributor-10B981?style=for-the-badge&logo=github"/>
+</p>
 
 </div>
 
