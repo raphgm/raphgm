@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Raphael%20Gab-Momoh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Microsoft%20Azure%20MVP%20%7C%20+MGCI+Regional+Lead&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Microsoft+Azure+Most+Valuable+Professional;FinOps+Certified+Professional;Founder+of+SKILL.SCH;Creator+of+RealCloudProjects;Platform+Engineering+%7C+AI+Infrastructure+%7C+Cloud+Security" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Microsoft+Azure+Most+Valuable+Professional;FinOps+Certified+Professional;Founder+of+SKILL.SCH;Maintainer+of+realcloudprojects.io;Platform+Engineering+%7C+AI+Infrastructure+%7C+Cloud+Security" />
 
 </div>
 
@@ -21,7 +21,7 @@ I enjoy solving infrastructure challenges, automating everything possible, contr
 -  FinOps Certified Professional
 -  MGCI Regional Leader
 -  Founder of **SKILL.SCH**
-- Creator of **Realcloudprojects.io**
+- Maintainer of **realcloudprojects.io**
 
 ---
 <!-- 📍 PLACE IT RIGHT HERE 📍 -->
