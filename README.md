@@ -140,3 +140,13 @@ A project-based learning platform where engineers build production-ready cloud a
 ---
 
 ---
+
+---
+
+# 📊 Activity Overview
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/raphgm/raphgm/main/profile-radar.svg" alt="Activity Overview Radar Graph" width="95%"/>
+
+</div>
