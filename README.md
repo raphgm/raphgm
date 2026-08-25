@@ -135,12 +135,6 @@ An AI-powered platform helping engineers master practical Cloud, DevOps, AI, and
 A project-based learning platform where engineers build production-ready cloud and DevOps solutions using real enterprise scenarios.
 - **Tech Stack**: `AWS`, `GCP`, `Docker`, `GitHub Actions`, `FinOps`
 
-
-
----
-
----
-
 ---
 
 # Activity Overview
