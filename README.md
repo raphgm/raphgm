@@ -139,7 +139,7 @@ A project-based learning platform where engineers build production-ready cloud a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/raphgm/raphgm/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Activity Radar Graph" width="95%"/>
+<img src="https://raw.githubusercontent.com/raphgm/raphgm/main/profile-radar.svg" alt="GitHub Activity Radar Graph" width="95%"/>
 
 <p style="margin-top: 10px;">
   <img src="https://img.shields.io/github/followers/raphgm?label=GitHub%20Followers&style=for-the-badge&color=0078D4&logo=github"/>
