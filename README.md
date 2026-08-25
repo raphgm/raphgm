@@ -141,20 +141,6 @@ A project-based learning platform where engineers build production-ready cloud a
 
 <img src="https://raw.githubusercontent.com/raphgm/raphgm/main/profile-radar.svg" alt="GitHub Activity Radar Graph" width="95%"/>
 
-<p style="margin-top: 10px;">
-  <img src="https://img.shields.io/github/followers/raphgm?label=GitHub%20Followers&style=for-the-badge&color=0078D4&logo=github"/>
-  <img src="https://img.shields.io/badge/Status-Active%20Contributor-10B981?style=for-the-badge&logo=github"/>
-</p>
-
-</div>
-
-<div align="center">
-
-<p>
-  <img src="https://img.shields.io/github/followers/raphgm?label=GitHub%20Followers&style=for-the-badge&color=0078D4&logo=github"/>
-  <img src="https://img.shields.io/badge/Status-Active%20Contributor-10B981?style=for-the-badge&logo=github"/>
-</p>
-
 </div>
 
 ---
