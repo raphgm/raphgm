@@ -58,33 +58,34 @@ def generate_svg(commits_pct, pr_pct, reviews_pct, issues_pct):
 
     points = f"{left_x:.1f},{cy:.1f} {cx:.1f},{top_y:.1f} {right_x:.1f},{cy:.1f} {cx:.1f},{bottom_y:.1f}"
 
+    # Clean GitHub Light Theme: Transparent background, dark crisp typography, light grid
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="550" height="320" viewBox="0 0 550 320">
-  <!-- 100% Transparent Background -->
+  <!-- Seamless Transparent Background -->
   <rect width="100%" height="100%" fill="none"/>
-  <text x="275" y="34" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Activity Overview</text>
+  <text x="275" y="34" fill="#0969da" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Activity Overview</text>
   
   <!-- Axes -->
-  <line x1="{cx-r}" y1="{cy}" x2="{cx+r}" y2="{cy}" stroke="#484f58" stroke-width="1.5"/>
-  <line x1="{cx}" y1="{cy-r}" x2="{cx}" y2="{cy+r}" stroke="#484f58" stroke-width="1.5"/>
+  <line x1="{cx-r}" y1="{cy}" x2="{cx+r}" y2="{cy}" stroke="#d0d7de" stroke-width="1.5"/>
+  <line x1="{cx}" y1="{cy-r}" x2="{cx}" y2="{cy+r}" stroke="#d0d7de" stroke-width="1.5"/>
 
   <!-- Grid Rings -->
-  <circle cx="{cx}" cy="{cy}" r="{r*0.25}" fill="none" stroke="#30363d" stroke-width="1" stroke-dasharray="3,3"/>
-  <circle cx="{cx}" cy="{cy}" r="{r*0.5}" fill="none" stroke="#30363d" stroke-width="1" stroke-dasharray="3,3"/>
-  <circle cx="{cx}" cy="{cy}" r="{r*0.75}" fill="none" stroke="#30363d" stroke-width="1" stroke-dasharray="3,3"/>
-  <circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="#484f58" stroke-width="1"/>
+  <circle cx="{cx}" cy="{cy}" r="{r*0.25}" fill="none" stroke="#eaeef2" stroke-width="1" stroke-dasharray="3,3"/>
+  <circle cx="{cx}" cy="{cy}" r="{r*0.5}" fill="none" stroke="#eaeef2" stroke-width="1" stroke-dasharray="3,3"/>
+  <circle cx="{cx}" cy="{cy}" r="{r*0.75}" fill="none" stroke="#eaeef2" stroke-width="1" stroke-dasharray="3,3"/>
+  <circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="#d0d7de" stroke-width="1"/>
 
-  <!-- Radar Polygon (GitHub Green) -->
-  <polygon points="{points}" fill="#238636" fill-opacity="0.45" stroke="#3fb950" stroke-width="2.5"/>
-  <circle cx="{left_x:.1f}" cy="{cy}" r="4.5" fill="#3fb950"/>
-  <circle cx="{cx}" cy="{top_y:.1f}" r="4.5" fill="#3fb950"/>
-  <circle cx="{right_x:.1f}" cy="{cy}" r="4.5" fill="#3fb950"/>
-  <circle cx="{cx}" cy="{bottom_y:.1f}" r="4.5" fill="#3fb950"/>
+  <!-- Radar Polygon (GitHub Light Green) -->
+  <polygon points="{points}" fill="#2da44e" fill-opacity="0.25" stroke="#1a7f37" stroke-width="2.5"/>
+  <circle cx="{left_x:.1f}" cy="{cy}" r="4.5" fill="#1a7f37"/>
+  <circle cx="{cx}" cy="{top_y:.1f}" r="4.5" fill="#1a7f37"/>
+  <circle cx="{right_x:.1f}" cy="{cy}" r="4.5" fill="#1a7f37"/>
+  <circle cx="{cx}" cy="{bottom_y:.1f}" r="4.5" fill="#1a7f37"/>
 
-  <!-- Axis Labels -->
-  <text x="{cx-r-12}" y="{cy+4}" fill="#c9d1d9" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="end">{commits_pct}% Commits</text>
-  <text x="{cx}" y="{cy-r-12}" fill="#c9d1d9" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">{reviews_pct}% Code review</text>
-  <text x="{cx+r+12}" y="{cy+4}" fill="#c9d1d9" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="start">{issues_pct}% Issues</text>
-  <text x="{cx}" y="{cy+r+22}" fill="#c9d1d9" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">{pr_pct}% Pull requests</text>
+  <!-- Axis Labels (GitHub Light Charcoal Text) -->
+  <text x="{cx-r-12}" y="{cy+4}" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="bold" text-anchor="end">{commits_pct}% Commits</text>
+  <text x="{cx}" y="{cy-r-12}" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="bold" text-anchor="middle">{reviews_pct}% Code review</text>
+  <text x="{cx+r+12}" y="{cy+4}" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="bold" text-anchor="start">{issues_pct}% Issues</text>
+  <text x="{cx}" y="{cy+r+22}" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="bold" text-anchor="middle">{pr_pct}% Pull requests</text>
 </svg>'''
     return svg
 
