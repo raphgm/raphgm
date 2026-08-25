@@ -62,7 +62,7 @@ def generate_svg(commits_pct, pr_pct, reviews_pct, issues_pct):
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="550" height="320" viewBox="0 0 550 320">
   <!-- Seamless Transparent Background -->
   <rect width="100%" height="100%" fill="none"/>
-  <text x="275" y="34" fill="#0969da" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Activity Overview</text>
+  
   
   <!-- Axes -->
   <line x1="{cx-r}" y1="{cy}" x2="{cx+r}" y2="{cy}" stroke="#d0d7de" stroke-width="1.5"/>
