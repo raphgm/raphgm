@@ -135,13 +135,7 @@ An AI-powered platform helping engineers master practical Cloud, DevOps, AI, and
 A project-based learning platform where engineers build production-ready cloud and DevOps solutions using real enterprise scenarios.
 - **Tech Stack**: `AWS`, `GCP`, `Docker`, `GitHub Actions`, `FinOps`
 
-#  GitHub Activity & Radar Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/raphgm/raphgm/main/profile-radar.svg" alt="GitHub Activity Radar Graph" width="95%"/>
-
-</div>
 
 ---
 
@@ -150,6 +144,16 @@ A project-based learning platform where engineers build production-ready cloud a
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphgm&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+#  Activity Overview & Radar Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/raphgm/raphgm/main/profile-radar.svg" alt="GitHub Activity Radar Graph" width="95%"/>
 
 </div>
 
