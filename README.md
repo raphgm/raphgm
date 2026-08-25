@@ -140,19 +140,3 @@ A project-based learning platform where engineers build production-ready cloud a
 ---
 
 ---
-
-# 📊 GitHub Contributions & Activity Overview
-
-<div align="center">
-
-<h3>5,287 contributions in the last year</h3>
-
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raphgm&theme=tokyo-night&hide_border=true" width="95%"/>
-
-<br/><br/>
-
-<!-- Activity Radar Graph (JUST BELOW) -->
-<img src="https://raw.githubusercontent.com/raphgm/raphgm/main/profile-radar.svg" alt="Activity Overview Radar Graph" width="95%"/>
-
-</div>
