@@ -4,6 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Microsoft+Azure+Most+Valuable+Professional;FinOps+Certified+Professional;Founder+of+SKILL.SCH;Maintainer+of+realcloudprojects.io;Platform+Engineering+%7C+AI+Infrastructure+%7C+Cloud+Security" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raphgm&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/raphgm?label=GitHub%20Followers&style=for-the-badge&color=10B981&logo=github" alt="GitHub Followers"/>
+</p>
+
 </div>
 
 ---
