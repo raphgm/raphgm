@@ -12,7 +12,7 @@ def get_stats():
     issues_pct = 2
 
     if token:
-        query = """
+        query = '''
         {
           user(login: "raphgm") {
             contributionsCollection {
@@ -23,7 +23,7 @@ def get_stats():
             }
           }
         }
-        """
+        '''
         try:
             resp = requests.post("https://api.github.com/graphql", json={"query": query}, headers=headers, timeout=10)
             if resp.status_code == 200:
@@ -58,34 +58,34 @@ def generate_svg(commits_pct, pr_pct, reviews_pct, issues_pct):
 
     points = f"{left_x:.1f},{cy:.1f} {cx:.1f},{top_y:.1f} {right_x:.1f},{cy:.1f} {cx:.1f},{bottom_y:.1f}"
 
-    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="550" height="320" viewBox="0 0 550 320">
-  <!-- Clean White Background -->
-  <rect width="100%" height="100%" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
-  <text x="275" y="34" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Activity Overview</text>
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="550" height="320" viewBox="0 0 550 320">
+  <!-- GitHub Dark Background -->
+  <rect width="100%" height="100%" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <text x="275" y="34" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Activity Overview</text>
   
   <!-- Axes -->
-  <line x1="{cx-r}" y1="{cy}" x2="{cx+r}" y2="{cy}" stroke="#8c959f" stroke-width="1.5"/>
-  <line x1="{cx}" y1="{cy-r}" x2="{cx}" y2="{cy+r}" stroke="#8c959f" stroke-width="1.5"/>
+  <line x1="{cx-r}" y1="{cy}" x2="{cx+r}" y2="{cy}" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="{cx}" y1="{cy-r}" x2="{cx}" y2="{cy+r}" stroke="#30363d" stroke-width="1.5"/>
 
   <!-- Grid Rings -->
-  <circle cx="{cx}" cy="{cy}" r="{r*0.25}" fill="none" stroke="#e1e4e8" stroke-width="1" stroke-dasharray="3,3"/>
-  <circle cx="{cx}" cy="{cy}" r="{r*0.5}" fill="none" stroke="#e1e4e8" stroke-width="1" stroke-dasharray="3,3"/>
-  <circle cx="{cx}" cy="{cy}" r="{r*0.75}" fill="none" stroke="#e1e4e8" stroke-width="1" stroke-dasharray="3,3"/>
-  <circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="{cx}" cy="{cy}" r="{r*0.25}" fill="none" stroke="#21262d" stroke-width="1" stroke-dasharray="3,3"/>
+  <circle cx="{cx}" cy="{cy}" r="{r*0.5}" fill="none" stroke="#21262d" stroke-width="1" stroke-dasharray="3,3"/>
+  <circle cx="{cx}" cy="{cy}" r="{r*0.75}" fill="none" stroke="#21262d" stroke-width="1" stroke-dasharray="3,3"/>
+  <circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="#30363d" stroke-width="1"/>
 
   <!-- Radar Polygon (GitHub Green) -->
-  <polygon points="{points}" fill="#2da44e" fill-opacity="0.30" stroke="#1a7f37" stroke-width="2.5"/>
-  <circle cx="{left_x:.1f}" cy="{cy}" r="4.5" fill="#1a7f37"/>
-  <circle cx="{cx}" cy="{top_y:.1f}" r="4.5" fill="#1a7f37"/>
-  <circle cx="{right_x:.1f}" cy="{cy}" r="4.5" fill="#1a7f37"/>
-  <circle cx="{cx}" cy="{bottom_y:.1f}" r="4.5" fill="#1a7f37"/>
+  <polygon points="{points}" fill="#238636" fill-opacity="0.40" stroke="#3fb950" stroke-width="2.5"/>
+  <circle cx="{left_x:.1f}" cy="{cy}" r="4.5" fill="#3fb950"/>
+  <circle cx="{cx}" cy="{top_y:.1f}" r="4.5" fill="#3fb950"/>
+  <circle cx="{right_x:.1f}" cy="{cy}" r="4.5" fill="#3fb950"/>
+  <circle cx="{cx}" cy="{bottom_y:.1f}" r="4.5" fill="#3fb950"/>
 
   <!-- Axis Labels -->
-  <text x="{cx-r-12}" y="{cy+4}" fill="#24292f" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="end">{commits_pct}% Commits</text>
-  <text x="{cx}" y="{cy-r-12}" fill="#24292f" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">{reviews_pct}% Code review</text>
-  <text x="{cx+r+12}" y="{cy+4}" fill="#24292f" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="start">{issues_pct}% Issues</text>
-  <text x="{cx}" y="{cy+r+22}" fill="#24292f" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">{pr_pct}% Pull requests</text>
-</svg>"""
+  <text x="{cx-r-12}" y="{cy+4}" fill="#c9d1d9" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="end">{commits_pct}% Commits</text>
+  <text x="{cx}" y="{cy-r-12}" fill="#c9d1d9" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">{reviews_pct}% Code review</text>
+  <text x="{cx+r+12}" y="{cy+4}" fill="#c9d1d9" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="start">{issues_pct}% Issues</text>
+  <text x="{cx}" y="{cy+r+22}" fill="#c9d1d9" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">{pr_pct}% Pull requests</text>
+</svg>'''
     return svg
 
 if __name__ == "__main__":
