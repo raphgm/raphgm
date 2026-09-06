@@ -144,4 +144,7 @@ A project-based learning platform where engineers build production-ready cloud a
   <img src="https://komarev.com/ghpvc/?username=raphgm&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/raphgm?label=GitHub%20Followers&style=for-the-badge&color=10B981&logo=github" alt="GitHub Followers"/>
 </p>
+<p align="center">
+  <b>Building cloud platforms, empowering engineers, and shaping the future of AI infrastructure.</b>
+</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=100&section=footer"/>
