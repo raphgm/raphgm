@@ -148,3 +148,15 @@ A project-based learning platform where engineers build production-ready cloud a
   <b>Building cloud platforms, empowering engineers, and shaping the future of AI infrastructure.</b>
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=100&section=footer"/>
+### 🚀 Featured Project: CloudCost CLI
+
+I recently built **CloudCost CLI**, an open-source, Enterprise Multi-Cloud FinOps Data Platform in Python. It's designed to bring SQL-first governance and financial visibility across cloud environments.
+
+**Key Highlights:**
+- **Multi-Cloud Integrations**: Extracts data natively from AWS (`boto3`), Azure (`azure-storage-blob`), OCI, and Alibaba Cloud.
+- **High-Performance Data Plane**: Uses Apache Arrow for lightning-fast memory operations.
+- **Bring-Your-Own Warehouse**: Syncs directly into local DuckDB, PostgreSQL (via ADBC), and Google BigQuery.
+- **Contextual FinOps**: Joins raw billing data with live infrastructure inventory and Terraform `.tfstate` files.
+- **Terminal UI**: Features an interactive `Textual` dashboard for managing policies and findings without leaving the terminal!
+
+🔗 [Check out the repository here!](https://github.com/your-username/cloudcost-cli)
