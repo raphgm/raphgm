@@ -118,10 +118,10 @@ A next-generation, high-performance Layer 1 blockchain protocol and Internet Fin
 
 ---
 
-###  [container-doctor](https://github.com/raphgm/container-doctor)
-> **Container Diagnostics & System Readiness CLI**
-A fast, extensible CLI tool designed to diagnose system readiness, prerequisites, and configuration for running Docker and container workloads.
-- **Tech Stack**: `Go / CLI`, `Docker`, `Kubernetes`, `System Diagnostics`
+###  [Container Preflight](https://github.com/raphgm/container-preflight)
+> **Predict container failures before they happen**
+A Go CLI that checks a Docker or Compose project against the machine it will run on, and against image registries, and predicts build and start-up failures before anything runs. It reports each problem once at its root cause, can predict for another machine from a snapshot, and learns new checks from real failures.
+- **Tech Stack**: `Go / CLI`, `Docker`, `Docker Compose`, `BuildKit`, `Container Registries`
 
 ---
 
