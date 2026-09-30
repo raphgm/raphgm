@@ -176,7 +176,7 @@ Walks through configuring Azure Database for PostgreSQL, migrating an existing d
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raphgm&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://hits.sh/github.com/raphgm.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=0078D4&labelColor=555555" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/raphgm?label=GitHub%20Followers&style=for-the-badge&color=10B981&logo=github" alt="GitHub Followers"/>
 </p>
 <p align="center">
