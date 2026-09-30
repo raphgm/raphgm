@@ -147,6 +147,15 @@ A project-based learning platform where engineers build production-ready cloud a
 ---
 
 
+### Writing
+- [Containerizing ORIN: From Docker to Azure App Service and a Plain VM](https://raphaelgmomoh.pages.dev/articles/orin-containerize-azure-app-service-vm)
+- [Networking MYRIX: Hub-Spoke VNets, Bastion, and Load-Balancer Health on Azure](https://raphaelgmomoh.pages.dev/articles/myrix-azure-hub-spoke-networking-monitoring)
+- [Configuring and Migrating to Azure Database for PostgreSQL](https://raphaelgmomoh.pages.dev/articles/azure-postgresql-migration-and-high-availability)
+
+More articles: [raphaelgabmomoh.com](https://raphaelgabmomoh.com)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raphgm&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/raphgm?label=GitHub%20Followers&style=for-the-badge&color=10B981&logo=github" alt="GitHub Followers"/>
