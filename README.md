@@ -147,14 +147,14 @@ A project-based learning platform where engineers build production-ready cloud a
 ---
 
 
-### Writing
-- [Containerizing ORIN: From Docker to Azure App Service and a Plain VM](https://raphaelgmomoh.pages.dev/articles/orin-containerize-azure-app-service-vm)
-- [Networking MYRIX: Hub-Spoke VNets, Bastion, and Load-Balancer Health on Azure](https://raphaelgmomoh.pages.dev/articles/myrix-azure-hub-spoke-networking-monitoring)
-- [Configuring and Migrating to Azure Database for PostgreSQL](https://raphaelgmomoh.pages.dev/articles/azure-postgresql-migration-and-high-availability)
-
-More articles: [raphaelgabmomoh.com](https://raphaelgabmomoh.com)
+###  [Technical Writing](https://raphaelgabmomoh.com)
+> **Cloud, DevOps & Azure Articles**
+Hands-on guides on containerizing apps, cloud networking, and database migration, written from real projects.
+- **Articles**: [Containerizing ORIN: Docker to Azure App Service and a Plain VM](https://raphaelgmomoh.pages.dev/articles/orin-containerize-azure-app-service-vm), [Networking MYRIX: Hub-Spoke VNets, Bastion, and Load-Balancer Health](https://raphaelgmomoh.pages.dev/articles/myrix-azure-hub-spoke-networking-monitoring), [Configuring and Migrating to Azure Database for PostgreSQL](https://raphaelgmomoh.pages.dev/articles/azure-postgresql-migration-and-high-availability)
+- **Topics**: `Azure`, `Docker`, `Networking`, `PostgreSQL`
 
 ---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raphgm&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
