@@ -147,11 +147,30 @@ A project-based learning platform where engineers build production-ready cloud a
 ---
 
 
-###  [Technical Writing](https://raphaelgabmomoh.com)
-> **Cloud, DevOps & Azure Articles**
-Hands-on guides on containerizing apps, cloud networking, and database migration, written from real projects.
-- **Articles**: [Containerizing ORIN: Docker to Azure App Service and a Plain VM](https://raphaelgmomoh.pages.dev/articles/orin-containerize-azure-app-service-vm), [Networking MYRIX: Hub-Spoke VNets, Bastion, and Load-Balancer Health](https://raphaelgmomoh.pages.dev/articles/myrix-azure-hub-spoke-networking-monitoring), [Configuring and Migrating to Azure Database for PostgreSQL](https://raphaelgmomoh.pages.dev/articles/azure-postgresql-migration-and-high-availability)
-- **Topics**: `Azure`, `Docker`, `Networking`, `PostgreSQL`
+#  Technical Writing
+
+### [Containerizing ORIN: From Docker to Azure App Service and a Plain VM](https://raphaelgmomoh.pages.dev/articles/orin-containerize-azure-app-service-vm)
+> **Container vs. VM deployment, side by side**
+A hands-on guide to containerizing an app with Docker and deploying it to Azure App Service and to a plain virtual machine.
+- **Tech Stack**: `Docker`, `Azure App Service`, `Linux VM`
+
+---
+
+### [Networking MYRIX: Hub-Spoke VNets, Bastion, and Load-Balancer Health on Azure](https://raphaelgmomoh.pages.dev/articles/myrix-azure-hub-spoke-networking-monitoring)
+> **Hub-spoke cloud networking with monitoring**
+Builds a hub-spoke virtual network with Azure Bastion for secure access and load-balancer health probes for monitoring.
+- **Tech Stack**: `Azure VNets`, `Bastion`, `Load Balancer`, `Monitoring`
+
+---
+
+### [Configuring and Migrating to Azure Database for PostgreSQL](https://raphaelgmomoh.pages.dev/articles/azure-postgresql-migration-and-high-availability)
+> **Database migration and high availability**
+Walks through configuring Azure Database for PostgreSQL, migrating an existing database, and setting up high availability.
+- **Tech Stack**: `Azure`, `PostgreSQL`, `High Availability`
+
+---
+
+**More articles:** [raphaelgabmomoh.com](https://raphaelgabmomoh.com)
 
 ---
 
